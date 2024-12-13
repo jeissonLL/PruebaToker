@@ -1,0 +1,6 @@
+@BE_Toker_PruebaTecnica_HostAddress = http://localhost:5225
+
+GET {{BE_Toker_PruebaTecnica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
